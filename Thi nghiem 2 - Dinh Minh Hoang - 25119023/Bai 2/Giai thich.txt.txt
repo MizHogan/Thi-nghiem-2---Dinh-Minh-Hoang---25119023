@@ -1,0 +1,1 @@
+Chọn 50 ms vì đủ dài để bỏ qua xung dội cơ học của nút (thường dưới 20 ms) nhưng đủ ngắn để không làm mất các lần nhấn liên tiếp của người dùng.
